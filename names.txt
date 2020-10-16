@@ -1,3 +1,2 @@
-role,NetID,FamilyName,GivenName
-boss,rtang56,Tang,Runshi
+boss,rtang56,Tang,Runshi 
 employee,twang494,Wang,Tianrun
